@@ -18,3 +18,4 @@ xhongc/music_tag_web:latest
 linuxserver/jackett
 19970688/nastools-bt
 shenxianmq/auto_symlink:latest
+nodered/node-red
