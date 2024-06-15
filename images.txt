@@ -11,7 +11,7 @@ p3terx/aria2-pro
 postgres:14
 vaultwarden/server:latest
 b3log/siyuan
-homeassistant/qemux86-64-homeassistant:latest
+homeassistant/home-assistant
 johngong/qbittorrent:latest
 deluan/navidrome
 xhongc/music_tag_web:latest
