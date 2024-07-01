@@ -1,5 +1,5 @@
 qdtoday/qd
-xhofe/alist:main
+xhofe/alist:latest
 haroldli/xiaoya-tvbox:latest
 amilys/embyserver:latest
 whyour/qinglong:latest
